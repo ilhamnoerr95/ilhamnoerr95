@@ -3,10 +3,12 @@
 ## I'm a developer, learner and worker!
 
 - 💡 I'm currently learning progamming!
+- 👥 Contact me if you wanna collab
 - 📌 2021 goals: get first rank silat competition, be a full stack developer, have a own website, get many project and portfolio.
-- ⚡ Fun fact: I love sport, backpacker ✈ , animal 🐈 
+- ⚡ Fun fact: I love sport, backpacker ✈ , animal 🐈
 
 ### Connect with me:
+
 [<img align="left" alt="ilhamnrachman.com" width="36px" src="https://img.icons8.com/clouds/100/000000/domain.png" />][website]
 [<img align="left" alt="irahama | YouTube" width="36px" src="https://img.icons8.com/color/48/000000/youtube-play.png" />][youtube]
 [<img align="left" alt="ilhamnrachman | LinkedIn" width="36px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
@@ -36,13 +38,12 @@
 <img align="left" alt="Photoshop" width="36px" src="https://user-images.githubusercontent.com/50609343/147909963-25a11e49-d795-430b-8b92-af3649dc55d2.png" />
 <img align="left" alt="lightroom" width="36px" src="https://user-images.githubusercontent.com/50609343/147910028-16004536-2474-4638-9c28-375dbf808222.png" />
 
-
-
 <br />
 <br />
-
 
 ---
+<img align="left" alt="ILham GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ilhamnoerr95&show_icons=true&theme=synthwave" />
+<img align="right" alt="ILham GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilhamnoerr95&layout=compact" />
 
 [instagram]: https://instagram.com/ilhamnrachman
 [linkedin]: https://linkedin.com/in/ilham-noer-rachman-0b110b12b
