@@ -42,8 +42,8 @@
 <br />
 
 ---
-<img align="left" alt="ILham GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ilhamnoerr95&show_icons=true&theme=synthwave" />
-<img align="right" alt="ILham GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilhamnoerr95&layout=compact" />
+<img align="center" alt="ILham GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ilhamnoerr95&show_icons=true&theme=synthwave" />
+<img align="center" alt="ILham GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilhamnoerr95&layout=compact" />
 
 [instagram]: https://instagram.com/ilhamnrachman
 [linkedin]: https://linkedin.com/in/ilham-noer-rachman-0b110b12b
