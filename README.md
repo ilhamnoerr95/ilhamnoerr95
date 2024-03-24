@@ -2,10 +2,6 @@
 
 ## I'm a developer, learner and worker!
 
-- 💡 I'm currently learning progamming!
-- 👥 Contact me if you wanna collab
-- 📌 2022 goals: get first rank silat competition, be a full stack developer, have a own website, get many project and portfolio.
-- ⚡ Fun fact: I love sport, backpacker ✈ , animal 🐈
 
 ### Connect with me:
 
