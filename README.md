@@ -12,8 +12,6 @@
 [<img align="left" alt="ilhamnrachman.com" width="36px" src="https://img.icons8.com/clouds/100/000000/domain.png" />][website]
 [<img align="left" alt="irahama | YouTube" width="36px" src="https://img.icons8.com/color/48/000000/youtube-play.png" />][youtube]
 [<img align="left" alt="ilhamnrachman | LinkedIn" width="36px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
-[<img align="left" alt="ilhamnrachman | Instagram" width="36px" src="https://img.icons8.com/fluency/48/000000/instagram-new.png" />][instagram]
-[<img align="left" alt="ilhamnrachman | Twitter" width="36px" src="https://img.icons8.com/color/50/000000/twitter.png" />][twitter]
 
 <br />
 
