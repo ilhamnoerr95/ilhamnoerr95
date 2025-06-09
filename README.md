@@ -1,12 +1,12 @@
 ### Hi Fellas, I'm Ilham 👋
 
-## I'm a developer, learner and worker!
+## I'm a Software Engineer!
 
+Growth always comes step by step—maintain discipline.
 
 ### Connect with me:
 
 [<img align="left" alt="ilhamnrachman.com" width="36px" src="https://img.icons8.com/clouds/100/000000/domain.png" />][website]
-[<img align="left" alt="irahama | YouTube" width="36px" src="https://img.icons8.com/color/48/000000/youtube-play.png" />][youtube]
 [<img align="left" alt="ilhamnrachman | LinkedIn" width="36px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
 
 <br />
@@ -42,5 +42,5 @@
 
 [//]: <> (variable link )
 [linkedin]: https://linkedin.com/in/ilham-noer-rachman-0b110b12b
-[website]: https://ilhamnrachman.com/
-[youtube]: https://www.youtube.com/channel/UClKmEyVsLqL1tz1U65E0ihQ
+[website]: https://ilhamnrachman.netlify.app/
+
