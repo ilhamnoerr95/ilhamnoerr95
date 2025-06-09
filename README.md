@@ -36,8 +36,8 @@ Growth always comes step by step—maintain discipline.
 <br />
 
 ---
-<img align="center" alt="ILham GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ilhamnoerr95&show_icons=true&theme=synthwave" />
 <img align="center" alt="ILham GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilhamnoerr95&layout=compact" />
+<img align="center" alt="ILham GitHub Stats" src="https://github-readme-stats.vercel.app/api/pin/?username=ilhamnoerr95&repo=github-readme-stats" />
 
 
 [//]: <> (variable link )
