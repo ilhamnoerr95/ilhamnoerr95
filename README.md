@@ -242,19 +242,9 @@ Experiments around LLMs, RAG, semantic search, vector databases, and AI-assisted
 
 <div align="center">
 
-<a href="https://github.com/ilhamnoerr95">
-  <img
-    height="180"
-    src="https://github-readme-stats.vercel.app/api?username=ilhamnoerr95&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&theme=transparent"
-  />
-</a>
+<a href="https://github.com/ilhamnoerr95"> <img height="180" src="https://github-readme-stats.vercel.app/api?username=ilhamnoerr95&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true&theme=transparent" /> </a>
 
-<a href="https://github.com/ilhamnoerr95">
-  <img
-    height="180"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilhamnoerr95&layout=compact&hide_border=true&langs_count=8&theme=transparent"
-  />
-</a>
+<a href="https://github.com/ilhamnoerr95"> <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilhamnoerr95&layout=compact&hide_border=true&langs_count=8&theme=transparent" /> </a>
 
 </div>
 
@@ -262,12 +252,7 @@ Experiments around LLMs, RAG, semantic search, vector databases, and AI-assisted
 
 <div align="center">
 
-<a href="https://github.com/ilhamnoerr95">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=ilhamnoerr95&bg_color=ffffff00&color=0ea5e9&line=0ea5e9&point=0284c7&area=true&hide_border=true"
-    width="95%"
-  />
-</a>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ilhamnoerr95&hide_border=true&theme=transparent" />
 
 </div>
 
