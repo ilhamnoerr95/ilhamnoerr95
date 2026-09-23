@@ -11,13 +11,13 @@ Building useful products, developer tools, and systems that make complex things 
 <br />
 
 <a href="https://ilhamnrachman.com">
-  <img src="https://img.shields.io/badge/Portfolio-ilhamnrachman.com-0ea5e9?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  <img src="https://img.shields.io/badge/Portfolio-ilhamnrachman.com-0ea5e9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
 </a>
 <a href="https://linkedin.com/in/ilham-noer-rachman-0b110b12b">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="https://github.com/ilhamnoerr95">
-  <img src="https://img.shields.io/badge/GitHub-@ilhamnoerr95-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-@ilhamnoerr95-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 
 </div>
@@ -34,42 +34,25 @@ const ilham = {
     "Full-Stack Development",
     "AI & Developer Tools",
     "Cloud & DevOps",
-    "Product Engineering"
+    "Product Engineering",
   ],
 
-  frontend: [
-    "React",
-    "Next.js",
-    "Vue",
-    "Quasar"
-  ],
+  frontend: ["React", "Next.js", "Vue", "Quasar"],
 
-  backend: [
-    "Node.js",
-    "NestJS"
-  ],
+  backend: ["Node.js", "NestJS"],
 
-  databases: [
-    "PostgreSQL",
-    "MongoDB"
-  ],
+  databases: ["PostgreSQL", "MongoDB"],
 
-  infrastructure: [
-    "Docker",
-    "Nginx",
-    "Linux",
-    "Cloudflare"
-  ],
+  infrastructure: ["Docker", "Nginx", "Linux", "Cloudflare"],
 
   exploring: [
     "AI Engineering",
     "RAG Systems",
     "LLM Applications",
-    "Developer Experience"
+    "Developer Experience",
   ],
 
-  philosophy:
-    "Growth comes step by step — maintain discipline."
+  philosophy: "Growth comes step by step — maintain discipline.",
 };
 ```
 
@@ -78,9 +61,8 @@ const ilham = {
 ## 🧠 What I Build
 
 <table>
-<tr>
-
-<td width="50%">
+  <tr>
+    <td width="50%" valign="top">
 
 ### 💻 Product Engineering
 
@@ -89,8 +71,7 @@ Building modern web applications with scalable frontend and backend architecture
 **React · Next.js · Vue · Node.js · NestJS**
 
 </td>
-
-<td width="50%">
+    <td width="50%" valign="top">
 
 ### 🤖 AI & Developer Tools
 
@@ -99,12 +80,9 @@ Exploring AI-powered workflows, RAG systems, LLM applications, and tools that im
 **LLMs · RAG · Vector Search · AI Tooling**
 
 </td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
 
 ### ☁️ Infrastructure
 
@@ -113,8 +91,7 @@ Working with containerized applications, Linux servers, reverse proxies, and pri
 **Docker · Linux · Nginx · Cloudflare**
 
 </td>
-
-<td width="50%">
+    <td width="50%" valign="top">
 
 ### ⚡ Automation & DX
 
@@ -123,122 +100,102 @@ Interested in CLI tools, automation, developer workflows, and making repetitive 
 **CLI · Automation · AI · Developer Experience**
 
 </td>
-
-</tr>
+  </tr>
 </table>
 
 ---
 
-# 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-### Frontend
+**Frontend**
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,quasar" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,quasar" alt="Frontend stack" />
 </p>
 
-### Backend & Database
+**Backend & Database**
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,nestjs,postgres,mongodb" />
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,postgres,mongodb" alt="Backend and database stack" />
 </p>
 
-### DevOps & Tools
+**DevOps & Tools**
 
 <p>
-<img src="https://skillicons.dev/icons?i=docker,linux,nginx,cloudflare,git,github,vscode,bash" />
+  <img src="https://skillicons.dev/icons?i=docker,linux,nginx,cloudflare,git,github,vscode,bash" alt="DevOps and tools stack" />
 </p>
 
-### AI & Developer Tools
+**AI & Developer Tools**
 
 <p>
-<img src="https://skillicons.dev/icons?i=python" />
+  <img src="https://skillicons.dev/icons?i=python" alt="Python" />
 </p>
 
 <p>
-<img src="https://img.shields.io/badge/LLM-Applications-111827?style=flat-square" />
-<img src="https://img.shields.io/badge/RAG-Systems-0ea5e9?style=flat-square" />
-<img src="https://img.shields.io/badge/Vector-Search-06b6d4?style=flat-square" />
-<img src="https://img.shields.io/badge/AI-Tooling-7c3aed?style=flat-square" />
+  <img src="https://img.shields.io/badge/LLM-Applications-111827?style=flat-square" alt="LLM Applications" />
+  <img src="https://img.shields.io/badge/RAG-Systems-0ea5e9?style=flat-square" alt="RAG Systems" />
+  <img src="https://img.shields.io/badge/Vector-Search-06b6d4?style=flat-square" alt="Vector Search" />
+  <img src="https://img.shields.io/badge/AI-Tooling-7c3aed?style=flat-square" alt="AI Tooling" />
 </p>
 
 ---
 
-# 🔥 Selected Projects
+## 🔥 Selected Projects
 
 > A selection of projects and experiments I've worked on across software engineering, automation, and developer tooling.
 
 <table>
-
-<tr>
-
-<td width="50%">
+  <tr>
+    <td width="50%" valign="top">
 
 ### 🌐 Web Applications
 
 Modern web applications built with React, Next.js, Vue, and Node.js.
 
-**Focus**
-
-`Frontend` · `Backend` · `API` · `Database`
+**Focus:** `Frontend` · `Backend` · `API` · `Database`
 
 </td>
-
-<td width="50%">
+    <td width="50%" valign="top">
 
 ### ⚡ Developer Tools
 
 CLI tools and development workflows designed to improve productivity and developer experience.
 
-**Focus**
-
-`CLI` · `Automation` · `DX` · `AI`
+**Focus:** `CLI` · `Automation` · `DX` · `AI`
 
 </td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
 
 ### ☁️ Infrastructure
 
 Containerized services and self-hosted infrastructure for development and production environments.
 
-**Stack**
-
-`Docker` · `Linux` · `Nginx` · `Cloudflare`
+**Stack:** `Docker` · `Linux` · `Nginx` · `Cloudflare`
 
 </td>
-
-<td width="50%">
+    <td width="50%" valign="top">
 
 ### 🤖 AI Experiments
 
 Experiments around LLMs, RAG, semantic search, vector databases, and AI-assisted workflows.
 
-**Stack**
-
-`Python` · `LLM` · `RAG` · `Vector Search`
+**Stack:** `Python` · `LLM` · `RAG` · `Vector Search`
 
 </td>
-
-</tr>
-
+  </tr>
 </table>
 
 <p align="center">
-
-<a href="https://github.com/ilhamnoerr95?tab=repositories">
-  <img src="https://img.shields.io/badge/Explore_All_Repositories-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
+  <a href="https://github.com/ilhamnoerr95?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore_All_Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore all repositories" />
+  </a>
 </p>
 
 ---
 
-# 📊 GitHub Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
 
@@ -250,99 +207,88 @@ Experiments around LLMs, RAG, semantic search, vector databases, and AI-assisted
   />
 </a>
 
-</div>
-
 <br />
 
-<div align="center">
-
 <img
-src="https://streak-stats.demolab.com?user=ilhamnoerr95&hide_border=true&theme=transparent"
-alt="Ilham's GitHub Streak"
+  src="https://streak-stats.demolab.com?user=ilhamnoerr95&hide_border=true&theme=transparent"
+  alt="Ilham's GitHub Streak"
 />
 
 </div>
 
 ---
 
-# 🧩 Currently Exploring
+## 🧩 Currently Exploring
 
 <details>
-<summary><b>🤖 AI Engineering</b></summary>
+  <summary><b>🤖 AI Engineering</b></summary>
 
 <br />
 
-Currently exploring:
-
-* Retrieval-Augmented Generation
-* Vector databases
-* Semantic & hybrid search
-* Reranking
-* Local LLMs
-* AI coding assistants
-* Agentic developer workflows
-* AI-powered CLI applications
+- Retrieval-Augmented Generation
+- Vector databases
+- Semantic & hybrid search
+- Reranking
+- Local LLMs
+- AI coding assistants
+- Agentic developer workflows
+- AI-powered CLI applications
 
 </details>
 
 <details>
-<summary><b>☁️ Infrastructure & Self-Hosting</b></summary>
+  <summary><b>☁️ Infrastructure & Self-Hosting</b></summary>
 
 <br />
 
-Working with:
-
-* Docker Compose
-* Linux servers
-* Cloudflare Tunnel
-* Reverse proxies
-* Private services
-* Self-hosted AI infrastructure
-* Secure remote access
+- Docker Compose
+- Linux servers
+- Cloudflare Tunnel
+- Reverse proxies
+- Private services
+- Self-hosted AI infrastructure
+- Secure remote access
 
 </details>
 
 <details>
-<summary><b>🧑‍💻 Developer Experience</b></summary>
+  <summary><b>🧑‍💻 Developer Experience</b></summary>
 
 <br />
 
-Interested in building:
-
-* CLI tools
-* AI coding workflows
-* Terminal UIs
-* Automation
-* Developer productivity tools
-* Better development workflows
+- CLI tools
+- AI coding workflows
+- Terminal UIs
+- Automation
+- Developer productivity tools
+- Better development workflows
 
 </details>
 
 ---
 
-# 📌 What I'm Working On
+## 📌 What I'm Working On
 
 ```text
-┌──────────────────────────────────────────────┐
-│                                              │
-│   Build useful things                       │
-│              ↓                               │
-│   Make them simpler                         │
-│              ↓                               │
-│   Ship & learn                              │
-│              ↓                               │
-│   Improve continuously                      │
-│              │                               │
-│              └───────────────↺               │
-│                                              │
-└──────────────────────────────────────────────┘
+┌────────────────────────────────┐
+│                                │
+│   Build useful things          │
+│            ↓                   │
+│   Make them simpler            │
+│            ↓                   │
+│   Ship & learn                 │
+│            ↓                   │
+│   Improve continuously         │
+│            └───────────────↺   │
+│                                │
+└────────────────────────────────┘
 ```
 
 Currently focused on combining **software engineering + AI + automation** to build practical tools and products.
 
 ---
 
-# 🎯 Development Philosophy
+## 🎯 Development Philosophy
 
 > **Build things that are useful.**
 >
@@ -354,30 +300,22 @@ Currently focused on combining **software engineering + AI + automation** to bui
 
 ---
 
-# 🌐 Let's Connect
+## 🌐 Let's Connect
 
 <div align="center">
 
 <a href="https://ilhamnrachman.com">
-<img src="https://img.shields.io/badge/🌐_Portfolio-ilhamnrachman.com-0ea5e9?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🌐_Portfolio-ilhamnrachman.com-0ea5e9?style=for-the-badge" alt="Portfolio" />
 </a>
-
 <a href="https://linkedin.com/in/ilham-noer-rachman-0b110b12b">
-<img src="https://img.shields.io/badge/LinkedIn-Ilham_Noer_Rachman-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-Ilham_Noer_Rachman-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-
 <a href="https://github.com/ilhamnoerr95">
-<img src="https://img.shields.io/badge/GitHub-ilhamnoerr95-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-ilhamnoerr95-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 
-</div>
-
-<br />
-
-<div align="center">
+<br /><br />
 
 ### 💙 Thanks for stopping by!
 
-<img src="https://komarev.com/ghpvc/?username=ilhamnoerr95&style=flat-square&color=0ea5e9&label=Profile+Views" />
-
-</div>
+<img src="https://komarev.com/ghpvc/?username=ilhamnoerr95&style=flat-square&color=0ea5e9&label=Profile+Views" alt="Profile views" />
