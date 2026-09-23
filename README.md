@@ -242,9 +242,13 @@ Experiments around LLMs, RAG, semantic search, vector databases, and AI-assisted
 
 <div align="center">
 
-<a href="https://github.com/ilhamnoerr95"> <img height="180" src="https://github-readme-stats.vercel.app/api?username=ilhamnoerr95&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true&theme=transparent" /> </a>
-
-<a href="https://github.com/ilhamnoerr95"> <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilhamnoerr95&layout=compact&hide_border=true&langs_count=8&theme=transparent" /> </a>
+<a href="https://github.com/ilhamnoerr95">
+  <img
+    height="180"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilhamnoerr95&layout=compact&hide_border=true&langs_count=8&theme=transparent&hide_title=false"
+    alt="Ilham's Top Languages"
+  />
+</a>
 
 </div>
 
@@ -252,7 +256,10 @@ Experiments around LLMs, RAG, semantic search, vector databases, and AI-assisted
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ilhamnoerr95&hide_border=true&theme=transparent" />
+<img
+src="https://streak-stats.demolab.com?user=ilhamnoerr95&hide_border=true&theme=transparent"
+alt="Ilham's GitHub Streak"
+/>
 
 </div>
 
