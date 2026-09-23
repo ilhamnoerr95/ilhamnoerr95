@@ -29,6 +29,7 @@ Building useful products, developer tools, and systems that make complex things 
 ```ts
 const ilham = {
   role: "Software Engineer",
+
   focus: [
     "Full-Stack Development",
     "AI & Developer Tools",
@@ -36,19 +37,39 @@ const ilham = {
     "Product Engineering"
   ],
 
-  frontend: ["React", "Next.js", "Vue", "Quasar"],
-  backend: ["Node.js", "NestJS"],
-  databases: ["PostgreSQL", "MongoDB"],
-  infrastructure: ["Docker", "Nginx", "Linux", "Cloudflare"],
+  frontend: [
+    "React",
+    "Next.js",
+    "Vue",
+    "Quasar"
+  ],
 
-  currentlyExploring: [
+  backend: [
+    "Node.js",
+    "NestJS"
+  ],
+
+  databases: [
+    "PostgreSQL",
+    "MongoDB"
+  ],
+
+  infrastructure: [
+    "Docker",
+    "Nginx",
+    "Linux",
+    "Cloudflare"
+  ],
+
+  exploring: [
     "AI Engineering",
     "RAG Systems",
     "LLM Applications",
     "Developer Experience"
   ],
 
-  philosophy: "Growth comes step by step — maintain discipline."
+  philosophy:
+    "Growth comes step by step — maintain discipline."
 };
 ```
 
@@ -58,15 +79,17 @@ const ilham = {
 
 <table>
 <tr>
+
 <td width="50%">
 
 ### 💻 Product Engineering
 
-Building scalable web applications with modern frontend and backend architectures.
+Building modern web applications with scalable frontend and backend architectures.
 
 **React · Next.js · Vue · Node.js · NestJS**
 
 </td>
+
 <td width="50%">
 
 ### 🤖 AI & Developer Tools
@@ -76,27 +99,31 @@ Exploring AI-powered workflows, RAG systems, LLM applications, and tools that im
 **LLMs · RAG · Vector Search · AI Tooling**
 
 </td>
+
 </tr>
 
 <tr>
+
 <td width="50%">
 
 ### ☁️ Infrastructure
 
-Self-hosted services, containerized applications, reverse proxies, and cloud infrastructure.
+Working with containerized applications, Linux servers, reverse proxies, and private cloud infrastructure.
 
 **Docker · Linux · Nginx · Cloudflare**
 
 </td>
+
 <td width="50%">
 
-### 🧩 Product Ideas
+### ⚡ Automation & DX
 
-I enjoy turning small ideas into usable products — from travel planning to developer tools and automation.
+Interested in CLI tools, automation, developer workflows, and making repetitive tasks simpler.
 
-**Build → Ship → Learn → Improve**
+**CLI · Automation · AI · Developer Experience**
 
 </td>
+
 </tr>
 </table>
 
@@ -122,7 +149,7 @@ I enjoy turning small ideas into usable products — from travel planning to dev
 <img src="https://skillicons.dev/icons?i=docker,linux,nginx,cloudflare,git,github,vscode,bash" />
 </p>
 
-### AI / Developer Tools
+### AI & Developer Tools
 
 <p>
 <img src="https://skillicons.dev/icons?i=python" />
@@ -137,74 +164,77 @@ I enjoy turning small ideas into usable products — from travel planning to dev
 
 ---
 
-# 🔥 Featured Projects
+# 🔥 Selected Projects
+
+> A selection of projects and experiments I've worked on across software engineering, automation, and developer tooling.
 
 <table>
+
 <tr>
 
 <td width="50%">
 
-### ✈️ iamtrip
+### 🌐 Web Applications
 
-Collaborative travel planning for families, couples, and groups.
+Modern web applications built with React, Next.js, Vue, and Node.js.
 
-**Features**
+**Focus**
 
-* 🗺️ Trip planning
-* 📅 Smart itinerary
-* 👥 Collaborative planning
-* 💰 Shared expenses
-* 🗳️ Group decisions & voting
+`Frontend` · `Backend` · `API` · `Database`
 
 </td>
-
-<td width="50%">
-
-### 🤖 iam-rag
-
-AI-powered developer tooling focused on RAG, workspace search, and intelligent coding workflows.
-
-**Stack**
-
-* Python
-* Qdrant
-* SearXNG
-* Ollama
-* RAG
-* Vector Search
-
-</td>
-
-</tr>
-
-<tr>
 
 <td width="50%">
 
 ### ⚡ Developer Tools
 
-Building CLI tools and workflows designed to make development faster and more productive.
+CLI tools and development workflows designed to improve productivity and developer experience.
 
 **Focus**
 
-`CLI` · `Automation` · `AI` · `DX`
+`CLI` · `Automation` · `DX` · `AI`
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+### ☁️ Infrastructure
+
+Containerized services and self-hosted infrastructure for development and production environments.
+
+**Stack**
+
+`Docker` · `Linux` · `Nginx` · `Cloudflare`
 
 </td>
 
 <td width="50%">
 
-### ☁️ Self-Hosted Infrastructure
+### 🤖 AI Experiments
 
-Experimenting with self-hosted infrastructure and private cloud services.
+Experiments around LLMs, RAG, semantic search, vector databases, and AI-assisted workflows.
 
 **Stack**
 
-`Docker` · `Linux` · `Cloudflare` · `Nginx`
+`Python` · `LLM` · `RAG` · `Vector Search`
 
 </td>
 
 </tr>
+
 </table>
+
+<p align="center">
+
+<a href="https://github.com/ilhamnoerr95?tab=repositories">
+  <img src="https://img.shields.io/badge/Explore_All_Repositories-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</p>
 
 ---
 
@@ -213,11 +243,17 @@ Experimenting with self-hosted infrastructure and private cloud services.
 <div align="center">
 
 <a href="https://github.com/ilhamnoerr95">
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=ilhamnoerr95&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true&theme=transparent" />
+  <img
+    height="180"
+    src="https://github-readme-stats.vercel.app/api?username=ilhamnoerr95&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&theme=transparent"
+  />
 </a>
 
 <a href="https://github.com/ilhamnoerr95">
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilhamnoerr95&layout=compact&hide_border=true&langs_count=8&theme=transparent" />
+  <img
+    height="180"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilhamnoerr95&layout=compact&hide_border=true&langs_count=8&theme=transparent"
+  />
 </a>
 
 </div>
@@ -226,17 +262,12 @@ Experimenting with self-hosted infrastructure and private cloud services.
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ilhamnoerr95&hide_border=true&theme=transparent" />
-
-</div>
-
----
-
-# 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ilhamnoerr95&hide_border=true&area=true&theme=github-compact" width="95%" />
+<a href="https://github.com/ilhamnoerr95">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=ilhamnoerr95&bg_color=ffffff00&color=0ea5e9&line=0ea5e9&point=0284c7&area=true&hide_border=true"
+    width="95%"
+  />
+</a>
 
 </div>
 
@@ -249,7 +280,7 @@ Experimenting with self-hosted infrastructure and private cloud services.
 
 <br />
 
-Currently interested in:
+Currently exploring:
 
 * Retrieval-Augmented Generation
 * Vector databases
@@ -267,7 +298,7 @@ Currently interested in:
 
 <br />
 
-Exploring:
+Working with:
 
 * Docker Compose
 * Linux servers
@@ -297,7 +328,29 @@ Interested in building:
 
 ---
 
-# 🎯 My Development Philosophy
+# 📌 What I'm Working On
+
+```text
+┌──────────────────────────────────────────────┐
+│                                              │
+│   Build useful things                       │
+│              ↓                               │
+│   Make them simpler                         │
+│              ↓                               │
+│   Ship & learn                              │
+│              ↓                               │
+│   Improve continuously                      │
+│              │                               │
+│              └───────────────↺               │
+│                                              │
+└──────────────────────────────────────────────┘
+```
+
+Currently focused on combining **software engineering + AI + automation** to build practical tools and products.
+
+---
+
+# 🎯 Development Philosophy
 
 > **Build things that are useful.**
 >
@@ -306,19 +359,6 @@ Interested in building:
 > **Stay disciplined.**
 >
 > **Improve one step at a time.**
-
-```text
-Idea
-  ↓
-Build
-  ↓
-Ship
-  ↓
-Learn
-  ↓
-Improve
-  ↺
-```
 
 ---
 
