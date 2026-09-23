@@ -1,46 +1,351 @@
-### Hi Fellas, I'm Ilham 👋
+<div align="center">
 
-## I'm a Software Engineer!
+# 👋 Hi, I'm Ilham
 
-Growth always comes step by step—maintain discipline.
+### Software Engineer · Full-Stack · AI & Developer Tools
 
-### Connect with me:
+Building useful products, developer tools, and systems that make complex things feel simple.
 
-[<img align="left" alt="ilhamnrachman.com" width="36px" src="https://img.icons8.com/clouds/100/000000/domain.png" />][website]
-[<img align="left" alt="ilhamnrachman | LinkedIn" width="36px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
-
-<br />
-
-### Languages and Tools:
-
-<img align="left" alt="Visual Studio Code" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="Typescript" width="36px" src="https://user-images.githubusercontent.com/50609343/147905884-3963b3a3-7f81-479b-8bf0-aff680ab81bd.png" />
-<img align="left" alt="React" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Vuejs" width="36px" src="https://user-images.githubusercontent.com/50609343/147905910-691469b6-64ba-43ca-ab1c-8e2bf2f2fba5.png" />
-<img align="left" alt="Quasar" width="36px" src="https://user-images.githubusercontent.com/50609343/147906114-f5c94807-9e13-4586-81a7-a74751028e99.png" />
-<img align="left" alt="Node.js" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="SQL" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MongoDB" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="Git" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="36px" src="https://img.icons8.com/color-glass/48/000000/github.png" />
-<img align="left" alt="bitbucket" width="36px" src="https://user-images.githubusercontent.com/50609343/147909997-bd4083ed-6b27-4b3c-9446-84fe5ed76720.png" />
-<img align="left" alt="Terminal" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img align="left" alt="AI" width="36px" src="https://user-images.githubusercontent.com/50609343/147909945-b765ae16-15bc-430a-8bd3-2702311cd3fa.png" />
-<img align="left" alt="Photoshop" width="36px" src="https://user-images.githubusercontent.com/50609343/147909963-25a11e49-d795-430b-8b92-af3649dc55d2.png" />
-<img align="left" alt="lightroom" width="36px" src="https://user-images.githubusercontent.com/50609343/147910028-16004536-2474-4638-9c28-375dbf808222.png" />
+**Growth comes step by step — maintain discipline.**
 
 <br />
-<br />
+
+<a href="https://ilhamnrachman.com">
+  <img src="https://img.shields.io/badge/Portfolio-ilhamnrachman.com-0ea5e9?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
+<a href="https://linkedin.com/in/ilham-noer-rachman-0b110b12b">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/ilhamnoerr95">
+  <img src="https://img.shields.io/badge/GitHub-@ilhamnoerr95-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
 
 ---
-<img align="center" alt="ILham GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilhamnoerr95&layout=compact" />
-<img align="center" alt="ILham GitHub Stats" src="https://github-readme-stats.vercel.app/api/pin/?username=ilhamnoerr95&repo=github-readme-stats" />
 
+## 🚀 About Me
 
-[//]: <> (variable link )
-[linkedin]: https://linkedin.com/in/ilham-noer-rachman-0b110b12b
-[website]: https://ilhamnrachman.netlify.app/
+```ts
+const ilham = {
+  role: "Software Engineer",
+  focus: [
+    "Full-Stack Development",
+    "AI & Developer Tools",
+    "Cloud & DevOps",
+    "Product Engineering"
+  ],
 
+  frontend: ["React", "Next.js", "Vue", "Quasar"],
+  backend: ["Node.js", "NestJS"],
+  databases: ["PostgreSQL", "MongoDB"],
+  infrastructure: ["Docker", "Nginx", "Linux", "Cloudflare"],
+
+  currentlyExploring: [
+    "AI Engineering",
+    "RAG Systems",
+    "LLM Applications",
+    "Developer Experience"
+  ],
+
+  philosophy: "Growth comes step by step — maintain discipline."
+};
+```
+
+---
+
+## 🧠 What I Build
+
+<table>
+<tr>
+<td width="50%">
+
+### 💻 Product Engineering
+
+Building scalable web applications with modern frontend and backend architectures.
+
+**React · Next.js · Vue · Node.js · NestJS**
+
+</td>
+<td width="50%">
+
+### 🤖 AI & Developer Tools
+
+Exploring AI-powered workflows, RAG systems, LLM applications, and tools that improve developer productivity.
+
+**LLMs · RAG · Vector Search · AI Tooling**
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### ☁️ Infrastructure
+
+Self-hosted services, containerized applications, reverse proxies, and cloud infrastructure.
+
+**Docker · Linux · Nginx · Cloudflare**
+
+</td>
+<td width="50%">
+
+### 🧩 Product Ideas
+
+I enjoy turning small ideas into usable products — from travel planning to developer tools and automation.
+
+**Build → Ship → Learn → Improve**
+
+</td>
+</tr>
+</table>
+
+---
+
+# 🛠️ Tech Stack
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,quasar" />
+</p>
+
+### Backend & Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,postgres,mongodb" />
+</p>
+
+### DevOps & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,linux,nginx,cloudflare,git,github,vscode,bash" />
+</p>
+
+### AI / Developer Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=python" />
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/LLM-Applications-111827?style=flat-square" />
+<img src="https://img.shields.io/badge/RAG-Systems-0ea5e9?style=flat-square" />
+<img src="https://img.shields.io/badge/Vector-Search-06b6d4?style=flat-square" />
+<img src="https://img.shields.io/badge/AI-Tooling-7c3aed?style=flat-square" />
+</p>
+
+---
+
+# 🔥 Featured Projects
+
+<table>
+<tr>
+
+<td width="50%">
+
+### ✈️ iamtrip
+
+Collaborative travel planning for families, couples, and groups.
+
+**Features**
+
+* 🗺️ Trip planning
+* 📅 Smart itinerary
+* 👥 Collaborative planning
+* 💰 Shared expenses
+* 🗳️ Group decisions & voting
+
+</td>
+
+<td width="50%">
+
+### 🤖 iam-rag
+
+AI-powered developer tooling focused on RAG, workspace search, and intelligent coding workflows.
+
+**Stack**
+
+* Python
+* Qdrant
+* SearXNG
+* Ollama
+* RAG
+* Vector Search
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+### ⚡ Developer Tools
+
+Building CLI tools and workflows designed to make development faster and more productive.
+
+**Focus**
+
+`CLI` · `Automation` · `AI` · `DX`
+
+</td>
+
+<td width="50%">
+
+### ☁️ Self-Hosted Infrastructure
+
+Experimenting with self-hosted infrastructure and private cloud services.
+
+**Stack**
+
+`Docker` · `Linux` · `Cloudflare` · `Nginx`
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<a href="https://github.com/ilhamnoerr95">
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=ilhamnoerr95&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true&theme=transparent" />
+</a>
+
+<a href="https://github.com/ilhamnoerr95">
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilhamnoerr95&layout=compact&hide_border=true&langs_count=8&theme=transparent" />
+</a>
+
+</div>
+
+<br />
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ilhamnoerr95&hide_border=true&theme=transparent" />
+
+</div>
+
+---
+
+# 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ilhamnoerr95&hide_border=true&area=true&theme=github-compact" width="95%" />
+
+</div>
+
+---
+
+# 🧩 Currently Exploring
+
+<details>
+<summary><b>🤖 AI Engineering</b></summary>
+
+<br />
+
+Currently interested in:
+
+* Retrieval-Augmented Generation
+* Vector databases
+* Semantic & hybrid search
+* Reranking
+* Local LLMs
+* AI coding assistants
+* Agentic developer workflows
+* AI-powered CLI applications
+
+</details>
+
+<details>
+<summary><b>☁️ Infrastructure & Self-Hosting</b></summary>
+
+<br />
+
+Exploring:
+
+* Docker Compose
+* Linux servers
+* Cloudflare Tunnel
+* Reverse proxies
+* Private services
+* Self-hosted AI infrastructure
+* Secure remote access
+
+</details>
+
+<details>
+<summary><b>🧑‍💻 Developer Experience</b></summary>
+
+<br />
+
+Interested in building:
+
+* CLI tools
+* AI coding workflows
+* Terminal UIs
+* Automation
+* Developer productivity tools
+* Better development workflows
+
+</details>
+
+---
+
+# 🎯 My Development Philosophy
+
+> **Build things that are useful.**
+>
+> **Keep learning.**
+>
+> **Stay disciplined.**
+>
+> **Improve one step at a time.**
+
+```text
+Idea
+  ↓
+Build
+  ↓
+Ship
+  ↓
+Learn
+  ↓
+Improve
+  ↺
+```
+
+---
+
+# 🌐 Let's Connect
+
+<div align="center">
+
+<a href="https://ilhamnrachman.com">
+<img src="https://img.shields.io/badge/🌐_Portfolio-ilhamnrachman.com-0ea5e9?style=for-the-badge" />
+</a>
+
+<a href="https://linkedin.com/in/ilham-noer-rachman-0b110b12b">
+<img src="https://img.shields.io/badge/LinkedIn-Ilham_Noer_Rachman-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://github.com/ilhamnoerr95">
+<img src="https://img.shields.io/badge/GitHub-ilhamnoerr95-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
+
+<br />
+
+<div align="center">
+
+### 💙 Thanks for stopping by!
+
+<img src="https://komarev.com/ghpvc/?username=ilhamnoerr95&style=flat-square&color=0ea5e9&label=Profile+Views" />
+
+</div>
